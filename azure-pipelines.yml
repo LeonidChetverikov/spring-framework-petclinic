@@ -15,7 +15,7 @@ variables:
   webAppName: 'my-app-namelch.azurewebsites.net'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'my-app-namelch'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
