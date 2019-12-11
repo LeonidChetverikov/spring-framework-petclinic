@@ -9,10 +9,10 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'a89bf620-9308-4bb0-9b9f-c4ebfb555a68'
+  azureSubscription: '2919aa76-aafa-4467-be96-e0a63c753233'
   
   # Web app name
-  webAppName: 'test'
+  webAppName: 'my-app-namelch.azurewebsites.net'
 
   # Environment name
   environmentName: ''
